@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/eugbyiringiro.github.io/static/css/main.3e1971aa.chunk.css",
+    "main.js": "/eugbyiringiro.github.io/static/js/main.b3b79d9a.chunk.js",
+    "main.js.map": "/eugbyiringiro.github.io/static/js/main.b3b79d9a.chunk.js.map",
+    "runtime-main.js": "/eugbyiringiro.github.io/static/js/runtime-main.e5fac95b.js",
+    "runtime-main.js.map": "/eugbyiringiro.github.io/static/js/runtime-main.e5fac95b.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/eugbyiringiro.github.io/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.5c64cfbc.chunk.js": "/eugbyiringiro.github.io/static/js/2.5c64cfbc.chunk.js",
+    "static/js/2.5c64cfbc.chunk.js.map": "/eugbyiringiro.github.io/static/js/2.5c64cfbc.chunk.js.map",
+    "index.html": "/eugbyiringiro.github.io/index.html",
+    "precache-manifest.fb3eb2b565a834649602a285224f6a40.js": "/eugbyiringiro.github.io/precache-manifest.fb3eb2b565a834649602a285224f6a40.js",
+    "service-worker.js": "/eugbyiringiro.github.io/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/eugbyiringiro.github.io/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.3e1971aa.chunk.css.map": "/eugbyiringiro.github.io/static/css/main.3e1971aa.chunk.css.map",
+    "static/js/2.5c64cfbc.chunk.js.LICENSE.txt": "/eugbyiringiro.github.io/static/js/2.5c64cfbc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/eugbyiringiro.github.io/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5fac95b.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.5c64cfbc.chunk.js",
+    "static/css/main.3e1971aa.chunk.css",
+    "static/js/main.b3b79d9a.chunk.js"
+  ]
+}
